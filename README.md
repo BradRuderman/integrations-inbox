@@ -2,7 +2,7 @@
 
 <a href="http://www.astronomer.io/developer">Read this first</a>.
 
-If you'd like to send us some integration code, create a directory with your github username, add your code to that directory, and send us a pull request.
+If you'd like to send us some integration code, fork this repo, create a directory with your github username, add your code to that directory, and send us a pull request.
 
 ---
 
