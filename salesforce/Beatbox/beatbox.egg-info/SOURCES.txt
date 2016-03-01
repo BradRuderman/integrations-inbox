@@ -1,0 +1,15 @@
+MANIFEST.in
+README
+beatbox.py
+demo.py
+export.py
+ez_setup.py
+portal_login_demo.py
+setstatus.py
+setup.py
+soql2atom.py
+xmltramp.py
+beatbox.egg-info/PKG-INFO
+beatbox.egg-info/SOURCES.txt
+beatbox.egg-info/dependency_links.txt
+beatbox.egg-info/top_level.txt
